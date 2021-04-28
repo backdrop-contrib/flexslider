@@ -36,7 +36,7 @@ function flexslider_library_info() {
 
   $libraries['flexslider'] = array(
     'title' => t('FlexSlider'),
-    'version' => '2.2.2',
+    'version' => '2.7.2',
     'js' => array(
       $library_path . '/jquery.flexslider-min.js' => array(
         'scope' => 'footer',
